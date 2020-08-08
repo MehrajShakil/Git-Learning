@@ -1,0 +1,4 @@
+1. commit : git commit -m "write some thng"
+2. add : git add all .
+3. log : git log --oneline
+
